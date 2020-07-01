@@ -28,7 +28,7 @@
           "quickserver":"0.8.1",
           "nes":"6.4.0",
           "tar-fs":"1.15.1",
-          "materialize-css":"0.6.1"
+          "materialize-css":"0.6.1",
           "gitlabhook":"0.0.1",
           "total.js":"2.2"
     },
